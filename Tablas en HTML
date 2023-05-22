@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>Titulo</th>
+            <th>Autor</th>
+            <th>Año de publicacion</th>
+            <th>Enlace a amazon</th>
+        </tr>
+        <tr>
+            <td>Inteligencia Emocional</td>
+            <td>Fabian Goleman</td>
+            <td>2020</td>
+            <td> <a href="https://www.amazon.com/Fabi%C3%A1n-Goleman/dp/B0BGFHKJP6/ref=sr_1_2_sspa?keywords=libros+en+espa%C3%B1ol+de+psicologia&qid=1684721625&sprefix=libros+en+espa%C3%B1ol+de+psi%2Caps%2C269&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRjhSUUVCWEUzVkhPJmVuY3J5cHRlZElkPUEwMDk4MjEwMlJTVU1LOFYzMExLViZlbmNyeXB0ZWRBZElkPUExMDEwMjY4M0RDRVRKWkIwODVYQSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=">Inteligencia Emociona</a></td>
+        </tr>
+        <tr>
+            <th>Titulo</th>
+            <th>Autor</th>
+            <th>Año de publicacion</th>
+            <th>Enlace a amazon</th>
+        </tr>
+        <tr>
+            <td>Padre rico, Padre pobre</td>
+            <td>Robert Kiyosaki</td>
+            <td>1997</td>
+            <td> <a href="//www.amazon.com/-/es/Padre-Rico-Padre-Pobre-audiolibro/dp/B01H4E8PZQ/ref=sr_1_1?keywords=padre+rico+padre+pobre+en+espa%C3%B1ol&qid=1684721868&sprefix=padre%2Caps%2C245&sr=8-1">Padre Rico, Padre Pobre</a></td>
+        </tr>
+        <tr>
+            <th>Titulo</th>
+            <th>Autor</th>
+            <th>Año de publicacion</th>
+            <th>Enlace a amazon</th>
+        </tr>
+        <tr>
+            <td>Historias de Divan</td>
+            <td>Gabriel Rolon</td>
+            <td>2007</td>
+            <td> <a href="https://www.amazon.com/-/es/Gabriel-Rol%C3%B3n-ebook/dp/B0765DLGYM/ref=sr_1_5?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3TS5SM78P1D56&keywords=gabriel+rolon&qid=1684722155&s=audible&sprefix=gabriel+rolon%2Caudible%2C249&sr=1-5-catcorr"> Historias de Divan</a></td>
+    </table>
+</body>
+</html>
