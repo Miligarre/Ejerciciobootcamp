@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+</head>
+<body>
+    <!--Esto es mi primer comentario de dos lineas
+    Aprendiendo a documentar mi código con OpenBootcamp-->
+    <ul>
+        <li> <a href="https://www.youtube.com/watch?v=IvPiE8h_IFU"> Maria Becerra - DESAFIANDO EL DESTINO</a></li>
+        <li> <a href="https://www.youtube.com/watch?v=3inw26U-os4"> Grupo Frontera x Bad Bunny - un x100to</a></li>
+        <li> <a href="https://www.youtube.com/watch?v=84GLUqD3Qyc"> Lali - Disciplina</a></li>
+    </ul>
+    
+</body>
+</html>
