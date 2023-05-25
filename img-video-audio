@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Aprendiendo a utilizar imágenes</h1>
+   <div>
+    <h2>Free Fire</h2>
+    <img src="free.webp" height="200" id="free">
+   </div>
+   <div>
+    <h1>Aprendiendo a utilizar videos</h1>
+    <video width="300" height="600" controls autoplay muted loop>
+        <source src="WhatsApp Video 2023-05-24 at 20.16.22.mp4"/mp4>
+    </video>
+   </div>
+   <div>
+    <h1>Aprendiendo a utilizar los audios</h1>
+    <audio controls autoplay loop>
+        <source src="musica.mpeg" type="audio/mp3"/>
+    </audio>
+   </div>
+    
+</body>
+</html>
